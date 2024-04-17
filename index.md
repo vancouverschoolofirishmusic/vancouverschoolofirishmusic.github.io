@@ -8,4 +8,4 @@
 layout: home
 ---
 
-![Musicians on stage[{{site.url}}/assets/img/dave-eoin-stage.jpg]
+![Musicians on stage](/assets/img/dave-eoin-stage.jpg)
