@@ -4,15 +4,8 @@ title: Classes
 permalink: /classes/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Programmes
+A short series of classes is planned for September 2024 as a pilot programme, and we hope to run a broader programme of ensemble and instrument classes in early 2025. Please get in touch to register your interest!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+## Location
+We are actively searching for an appropriate venue in East Vancouver, to be reasonably accessible from Vancouver, North Vancouver, New Westminster and Coquitlam. 
