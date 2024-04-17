@@ -7,3 +7,5 @@
 #
 layout: home
 ---
+
+![Musicians on stage[{{site.url}}/assets/img/dave-eoin-stage.jpg]
