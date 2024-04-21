@@ -9,3 +9,4 @@ layout: home
 ---
 
 ![Musicians on stage](/assets/img/dave-eoin-stage.jpg)
+
