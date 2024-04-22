@@ -6,6 +6,7 @@ permalink: /teachers/
 
 ## Dave Clark
 ![Dave Clark](assets/img/dave.jpg)
+
 Dave is a fiddle player from Quebec City, Canada of French-Canadian and Scottish heritage. 
 He learned classical violin as a child, before discovering traditional Irish music in his teens.  
 He learned his first Irish tunes to play for dancers in Shannon, a small town north of Quebec City with strong Irish heritage.  
