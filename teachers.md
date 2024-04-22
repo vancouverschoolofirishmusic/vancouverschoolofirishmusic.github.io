@@ -6,6 +6,12 @@ permalink: /teachers/
 
 ## Dave Clark
 ![Dave Clark](assets/img/dave.jpg)
+Dave is a fiddle player from Quebec City, Canada of French-Canadian and Scottish heritage. 
+He learned classical violin as a child, before discovering traditional Irish music in his teens.  
+He learned his first Irish tunes to play for dancers in Shannon, a small town north of Quebec City with strong Irish heritage.  
+During his university years studying geology in Montreal, he was part of the city's vibrant traditional music scene, and played sessions, gigs, festivals and feisanna.  
+Dave has been in Vancouver since 2010. 
+
 
 ## Eoin Caulfield
 ![Eoin Caulfield](assets/img/eoin.jpg)
