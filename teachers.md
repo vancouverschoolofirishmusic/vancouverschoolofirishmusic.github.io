@@ -18,6 +18,6 @@ Eoin has won regional and All-Ireland Fleadh medals both solo and in céilí ban
 ![Conor Fleming (credit Jim Hegan Photography)](assets/img/conor.jpg)
 
 Conor is a button accordion player from Co. Clare, Ireland.
-He was introduced to traditional music as a child by Mary Liddy at the local Comhaltas branch in Newmarket-on-Fergus, and learned the B/C system of box playing from Conor MacCarthy and subsequently Colin Nea. 
+He was introduced to traditional music as a child by Mary Liddy at the local Comhaltas branch in Newmarket-on-Fergus, and learned the B/C system of box playing from Conor McCarthy and subsequently Colin Nea. 
 As a teenager, Conor was also a member of Denis Liddy's highly successful youth music group, the Barefied Céilí Band. 
 Conor has performed at concerts and festivals in Ireland and internationally and has taught child and adult learners. 
