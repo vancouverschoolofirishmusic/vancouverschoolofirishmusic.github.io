@@ -15,7 +15,7 @@ Dave is a fiddle player from Quebec City, Canada of French-Canadian and Scottish
 
 ![Eoin Caulfield](assets/img/eoin.jpg)
 
-{% include embed-audio-mp3.html src="/assets/audio/eoin-the-ballinakill-reel.mp3" %}
+{% include embed-audio.html src="/assets/audio/eoin-the-ballinakill-reel.mp3" %}
 
 Eoin is a concertina and flute player from Dublin, Ireland who has been living in Vancouver for the past five years. 
 He has been playing Irish traditional music since as early as he could talk, and has had the pleasure of learning from some of Ireland’s greatest proponents of the music, including Aoife O’Connor, Micheál O’Raghallaigh, Noel Hill, Harry Bradley and Paul McGrattan. 
@@ -25,7 +25,7 @@ Eoin has won regional and All-Ireland Fleadh medals both solo and in céilí ban
 
 ![Conor Fleming (credit Jim Hegan Photography)](assets/img/conor.jpg)
 
-{% include embed-audio-ogg.html src="/assets/audio/conor-fly-by-night.ogg" %}
+{% include embed-audio.html src="/assets/audio/conor-fly-by-night.mp3" %}
 
 Conor is a button accordion player from Co. Clare, Ireland, and has been living in Vancouver since 2017.
 He was introduced to traditional music as a child by Mary Liddy at the local Comhaltas branch in Newmarket-on-Fergus, and learned the B/C system of box playing from Conor McCarthy and subsequently Colin Nea. 
