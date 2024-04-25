@@ -19,6 +19,12 @@
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
+            <form name="newsletter" method="POST" action="/subscription-success">
+              <p>
+                <input name="email" type="email" placeholder="your@email.com" required>
+                <button style="background-color: none;" type="submit">Subscribe</button>
+              </p>
+            </form>
         </ul>
       </div>
 
