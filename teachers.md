@@ -1,4 +1,4 @@
----
+ ---
 layout: page
 title: Teachers
 permalink: /teachers/
@@ -13,7 +13,7 @@ Dave is a fiddle player from Quebec City, Canada of French-Canadian and Scottish
 
 ## Eoin Caulfield
 
-![Eoin Caulfield](assets/img/eoin.jpg)
+![Eoin Caulfield](assets/img/eoin-flute.jpg)
 
 {% include embed-audio.html src="/assets/audio/eoin-the-ballinakill-reel.mp3" %}
 
