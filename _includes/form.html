@@ -7,7 +7,7 @@
   </p> 
 </form> -->
 
-<form id="contact-form" action="/subscriptionsuccess">
+<form id="contact-form">
   <input
     type="email"
     id="email"
@@ -16,6 +16,7 @@
     required
   /><br />
   <button type="submit">Subscribe</button>
+  <input type="hidden" name='redirect_to' value="/subscriptionsuccess.html"/>
 </form>
 
 <script>
