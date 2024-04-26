@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Successful Subscription
-permalink: /subscriptionsuccess/
+permalink: /_subscriptionsuccess/
 ---
 
 ## Success!
