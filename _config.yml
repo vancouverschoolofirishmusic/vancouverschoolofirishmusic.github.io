@@ -37,6 +37,7 @@ minima:
 header_pages:
  - teachers.md
  - classes.md
+ - contact.md
 
 # Build settings
 theme: minima
