@@ -10,7 +10,7 @@ layout: home
 
 ![Musicians on stage](/assets/img/dave-eoin-stage.jpg)
 
-## Welcome / Fáilte
+# Welcome / Fáilte
 
 Vancouver School of Irish Music was founded in April 2024.
 We are a non-profit organization which aims to foster a community of traditional Irish musicians and enthusiasts here in Vancouver, BC. 
