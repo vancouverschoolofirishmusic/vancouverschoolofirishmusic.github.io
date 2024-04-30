@@ -31,3 +31,9 @@ Conor is a button accordion player from Co. Clare, Ireland, and has been living 
 He was introduced to traditional music as a child by Mary Liddy at the local Comhaltas branch in Newmarket-on-Fergus, and learned the B/C system of box playing from Conor McCarthy and subsequently Colin Nea. 
 As a teenager, Conor was also a member of Denis Liddy's highly successful youth music group, the Barefied Céilí Band. 
 Conor has performed at concerts and festivals in Ireland and internationally and has taught child and adult learners. 
+
+## Melany Yeap
+
+![Melany Yeap](assets/img/Mel-flute.jpg)
+
+Melany is from Bangkok, Thailand, but grew up in Vancouver for most of her childhood. She fell in love with Irish traditional music as a teenager and became involved in the local Irish music session scene as a young adult. She plays flute and tin whistle and has many years experience as a session musician, performing at Celticfest, pubs, weddings, events and concerts all throughout the Lower Mainland. Melany has collaborated with many local musicians throughout the years, such as Glasta, Wednesday Nights at Johnnie Foxes, and she is a regular face among the Irish music community in Vancouver, BC and Washington State. She maintains a social media presence as “Thairish Flute”.
