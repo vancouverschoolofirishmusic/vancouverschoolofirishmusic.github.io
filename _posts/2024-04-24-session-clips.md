@@ -28,9 +28,6 @@ The musicians are Eoin, Dave, Mel, Randy and Niall.
 13-Ballinasloe-Fair-reel 
 {% include embed-audio.html src='/assets/audio/2024-04-24-session/13-Ballinasloe-Fair-reel.mp3' %}
 
-14-Good-Morning-Nightcap-Conlons-Dream-Barr-na-Cuile-reels 
-{% include embed-audio.html src='/assets/audio/2024-04-24-session/14-Good-Morning-Nightcap-Conlons-Dream-Barr-na-Cuile-reels.mp3' %}
-
 15-Sailor-on-the-Rock-the-Bag-of-Potatoes-Lucky-in-Love-reels 
 {% include embed-audio.html src='/assets/audio/2024-04-24-session/15-Sailor-on-the-Rock-the-Bag-of-Potatoes-Lucky-in-Love-reels.mp3' %}
 
