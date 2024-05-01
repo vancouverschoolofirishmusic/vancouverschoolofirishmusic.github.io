@@ -19,9 +19,6 @@ The musicians are Eoin, Dave, Mel, Randy and Niall.
 05-McGettricks-Brian-Rooneys-Reels 
 {% include embed-audio.html src='/assets/audio/2024-04-24-session/05-McGettricks-Brian-Rooneys-Reels.mp3' %}
 
-06-The-Job-of-Journeywork-hornpipe 
-{% include embed-audio.html src='/assets/audio/2024-04-24-session/06-The-Job-of-Journeywork-hornpipe.mp3' %}
-
 07-Dawn-Chorus-Will-You-Come-Home-with-Me-the Orphan-jigs 
 {% include embed-audio.html src='/assets/audio/2024-04-24-session/07-Dawn-Chorus-Will-You-Come-Home-with-Me-the Orphan-jigs.mp3' %}
 
