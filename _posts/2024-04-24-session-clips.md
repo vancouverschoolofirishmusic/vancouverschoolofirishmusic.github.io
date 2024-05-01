@@ -7,12 +7,6 @@ Eoin brought a mic along to our last session and has extracted a few tracks.
 
 The musicians are Eoin, Dave, Mel, Randy and Niall.
 
-01-Reel-of-Mullinavat 
-{% include embed-audio.html src='/assets/audio/2024-04-24-session/01-Reel-of-Mullinavat.mp3' %}
-
-02-Brennans-Favorite-Dancing-Eyes-Ducks-and-the-Oats-Jigs 
-{% include embed-audio.html src='/assets/audio/2024-04-24-session/02-Brennans-Favorite-Dancing-Eyes-Ducks-and-the-Oats-Jigs.mp3' %}
-
 03-Oisins-Fred-Finns--Sailor-on-the-Rock-Reels 
 {% include embed-audio.html src='/assets/audio/2024-04-24-session/03-Oisins-Fred-Finns--Sailor-on-the-Rock-Reels.mp3' %}
 
