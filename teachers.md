@@ -8,6 +8,8 @@ permalink: /teachers/
 
 ![Dave Clark](assets/img/dave.jpg)
 
+{% include embed-audio.html src="/assets/audio/dave-fiddle.mp3" %}
+
 Dave is a fiddle player from Quebec City, Canada of French-Canadian and Scottish heritage. He learned classical violin as a child, before discovering traditional Irish music in his teens. He learned his first Irish tunes to play for dancers in Shannon, a small town north of Quebec City with strong Irish heritage. During his university years studying geology in Montreal, he was part of the city's vibrant traditional music scene, and played sessions, gigs, festivals and feisanna. While living in St. John's, Newfoundland, Dave recorded a duet album with accordion player Graham Wells, one of Newfoundland's finest musicians. Dave has been living in Vancouver since 2010.
 
 
