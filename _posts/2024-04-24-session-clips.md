@@ -13,14 +13,8 @@ The musicians are Eoin, Dave, Mel, Randy and Niall.
 05-McGettricks-Brian-Rooneys-Reels 
 {% include embed-audio.html src='/assets/audio/2024-04-24-session/05-McGettricks-Brian-Rooneys-Reels.mp3' %}
 
-07-Dawn-Chorus-Will-You-Come-Home-with-Me-the Orphan-jigs 
-{% include embed-audio.html src='/assets/audio/2024-04-24-session/07-Dawn-Chorus-Will-You-Come-Home-with-Me-the Orphan-jigs.mp3' %}
-
 08-Murphys-4-part-hornpipe 
 {% include embed-audio.html src='/assets/audio/2024-04-24-session/08-Murphys-4-part-hornpipe.mp3' %}
-
-09-The-Wind-that-Shakes-the-Barley-The-Reel-with-the-Beryl-reels 
-{% include embed-audio.html src='/assets/audio/2024-04-24-session/09-The-Wind-that-Shakes-the-Barley-The-Reel-with-the-Beryl-reels.mp3' %}
 
 10-College-Groves-The-Heather-Breeze-reels 
 {% include embed-audio.html src='/assets/audio/2024-04-24-session/10-College-Groves-The-Heather-Breeze-reels.mp3' %}
