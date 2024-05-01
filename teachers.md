@@ -36,4 +36,6 @@ Conor has performed at concerts and festivals in Ireland and internationally and
 
 ![Melany Yeap](assets/img/Mel-flute.jpg)
 
+{% include embed-audio.html src="/assets/audio/mel-whistle.mp3" %}
+
 Melany is from Bangkok, Thailand, but grew up in Vancouver for most of her childhood. She fell in love with Irish traditional music as a teenager and became involved in the local Irish music session scene as a young adult. She plays flute and tin whistle and has many years experience as a session musician, performing at Celticfest, pubs, weddings, events and concerts all throughout the Lower Mainland. Melany has collaborated with many local musicians throughout the years, such as Glasta, Wednesday Nights at Johnnie Foxes, and she is a regular face among the Irish music community in Vancouver, BC and Washington State. She maintains a social media presence as [Thairish Flute](http://www.youtube.com/@thairishflute6799).
