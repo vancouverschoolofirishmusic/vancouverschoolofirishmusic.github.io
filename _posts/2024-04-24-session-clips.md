@@ -31,18 +31,8 @@ The musicians are Eoin, Dave, Mel, Randy and Niall.
 15-Sailor-on-the-Rock-the-Bag-of-Potatoes-Lucky-in-Love-reels 
 {% include embed-audio.html src='/assets/audio/2024-04-24-session/15-Sailor-on-the-Rock-the-Bag-of-Potatoes-Lucky-in-Love-reels.mp3' %}
 
-16-Corrie-Hellie-reel 
-{% include embed-audio.html src='/assets/audio/2024-04-24-session/16-Corrie-Hellie-reel.mp3' %}
-
-17-The-Four-leafed-Shamrock-The-Ballintore-Fancy-reels 
-{% include embed-audio.html src='/assets/audio/2024-04-24-session/17-The-Four-leafed-Shamrock-The-Ballintore-Fancy-reels.mp3' %}
-
 18-Sligo-Maid-Limestone-Rock-Bird-in-the-Bush-Creggs-Pipes-reels 
 {% include embed-audio.html src='/assets/audio/2024-04-24-session/18-Sligo-Maid-Limestone-Rock-Bird-in-the-Bush-Creggs-Pipes-reels.mp3' %}
 
 19-Skylark-Pipers-Despair-reels 
 {% include embed-audio.html src='/assets/audio/2024-04-24-session/19-Skylark-Pipers-Despair-reels.mp3' %}
-
-20-Sean-Ryans-The-Long-Drop-Toss-the-Feathers-the-Roscommon-Lads-of-Laois-reels 
-{% include embed-audio.html src='/assets/audio/2024-04-24-session/20-Sean-Ryans-The-Long-Drop-Toss-the-Feathers-the-Roscommon-Lads-of-Laois-reels.mp3' %}
-
