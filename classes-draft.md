@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Classes
-permalink: /classes/
+permalink: /classes-draft/
 ---
 
 ## Classes Starting 7th January 2025!
