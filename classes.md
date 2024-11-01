@@ -13,6 +13,7 @@ Our first series of classes will begin on Tuesday 7th January.
 * For children aged 7 - 10 (although we will consider younger and older children)
 * $25 per class
   * This first series of classes is discounted by 20% (to $20 per class) and includes a tin whistle for each child to keep!
+* Limited to 8 children. Additional applications will be placed on a waiting list
  
 ## Registration Instructions
 * Email [info@vsim.ca](mailto:info@vsim.ca) to register, providing the following details:
