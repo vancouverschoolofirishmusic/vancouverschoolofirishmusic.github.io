@@ -15,7 +15,7 @@ Our first series of classes will begin on Tuesday 7th January.
   * This first series of classes is discounted by 20% (to $20) and includes a tin whistle for each child to keep!
  
 ## Registration Instructions
-* Email info@vsim.ca to register, providing the following details:
+* Email [info@vsim.ca](mailto:info@vsim.ca) to register, providing the following details:
   * Parent's name and phone number
   * Child's name and age
  
