@@ -13,15 +13,14 @@ Our first series of classes will begin on Tuesday 7th January.
 * For children aged 7 - 10 (although we will consider younger and older children)
 * $25 per class
   * This first series of classes is discounted by 20% (to $20) and includes a tin whistle for each child to keep!
-  * Full payment of $120 is required up front to secure your place
  
 ## Registration Instructions
 * Email info@vsim.ca to register, providing the following details:
   * Parent's name and phone number
   * Child's name and age
  
-* We will let you know if we have a spot for your child and provide a reference number for payment
-* You can then pay by e-transfer to info@vsim.ca
+* We will let you know if we have a spot for your child and provide instructions for payment
+* Full payment of $120 (discounted from $150) is required to secure your child's place
 
 ## Curriculum & Skill Level
 * This will be a basic introduction to Irish traditional music on the tin whistle
