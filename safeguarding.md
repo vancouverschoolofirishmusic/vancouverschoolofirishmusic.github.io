@@ -29,7 +29,7 @@ This policy applies to all staff, volunteers, students, and parents associated w
 **5. Principles**
 
 - The welfare of the child is paramount.
-- All children have the right to be protected from harm.
+- All children have the right to be protected from harm. We will provide an inclusive, safe environment for children.
 - All staff and volunteers have a responsibility to report any concerns regarding child protection.
 - We will work in partnership with parents and guardians to promote the welfare of children.
 
