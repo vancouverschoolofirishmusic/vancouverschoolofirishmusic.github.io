@@ -5,6 +5,8 @@ permalink: /classes/
 ---
 
 ## Classes Starting 7th January 2025!
+_Update: this round of classes is fully booked and under way. Please subscribe to our email updates for news of our next classes!_
+
 Our first series of classes will begin on Tuesday 7th January. 
 
 * Tuesdays from 6:15 - 6:45 pm
