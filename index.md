@@ -13,8 +13,10 @@ layout: home
 # Welcome / Fáilte
 
 Vancouver School of Irish Music is a non-profit organization which aims to foster a community of traditional Irish musicians and enthusiasts here in Vancouver, BC.
-Our [first series of classes](classes.md) is due to begin in January 2025, for children aged 7-10. 
-As the school grows we plan to introduce adult classes as well as host concerts and masterclasses from visiting musicians.
+Our [first series of classes](classes.md) started in January 2025, for children aged 7-10, and will run until [CelticFest](_posts/2025-02-05-celticfest.md). 
+From April 2025 we plan to add a second class for ages 10-12.
+
+As the school grows we plan to introduce adult classes as well as host concerts and [masterclasses from visiting musicians](_posts/2025-02-06-sean-gavin-lecture.md).
 
 Browse our website for further information. You can email us at the address below, or subscribe to our email newsletter on our [Contact]({% link contact.md %}) page.
 
