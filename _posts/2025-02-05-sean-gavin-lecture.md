@@ -20,6 +20,8 @@ Please [email us](mailto:info@vsim.ca) to reserve your seat.
 
 ### Clips
 
+{% include youtube.html id="MUD21PXcdv0" %}
+
 [![Seán Gavin](http://img.youtube.com/vi/MUD21PXcdv0/0.jpg)](http://www.youtube.com/watch?v=MUD21PXcdv0 "Seán Gavin")
 
 [![Caoimhín Ó Fearghaíl at Cork Folk Festival](http://img.youtube.com/vi/q3NSy3fby5M/0.jpg)](http://www.youtube.com/watch?v=q3NSy3fby5M "Caoimhín Ó Fearghaíl at Cork Folk Festival")
