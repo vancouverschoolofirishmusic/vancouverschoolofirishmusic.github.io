@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Lecture by Seán Gavin and Caoimhín Ó Fearghaíl"
+---
+
+
+We are delighted to announce a lecture by the highly-regarded musicians [Seán Gavin](https://www.seangavinmusic.com/about/) and [Caoimhín Ó Fearghaíl](https://www.caoimhinofearghail.ie/bio). 
+Both Seán and Caoimhín are both masters of the whistle, flute and uillean pipes and have a deep knowledge of the tradition. 
+Their talk will focus on the regional styles of Irish traditional music, complemented by archival recordings, maps and live demonstrations. 
+
+### Details
+
+**Date & Time**: Tuesday February 18th 6:30-8 pm
+**Venue**: Renfrew Elementary School
+**Admission**: $20, capacity limited to 25
+
+Please [email us](mailto:info@vsim.ca) to reserve your seat.
+
+### Clips
+
+[![Seán Gavin](http://img.youtube.com/vi/MUD21PXcdv0/0.jpg)](http://www.youtube.com/watch?v=MUD21PXcdv0 "Seán Gavin")
+
+[![Caoimhín Ó Fearghaíl at Cork Folk Festival](http://img.youtube.com/vi/q3NSy3fby5M/0.jpg)](http://www.youtube.com/watch?v=q3NSy3fby5M "Caoimhín Ó Fearghaíl at Cork Folk Festival")
