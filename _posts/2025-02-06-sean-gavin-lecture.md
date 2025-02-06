@@ -23,6 +23,6 @@ Please [email us](mailto:info@vsim.ca) to reserve your seat.
 Seán Gavin - Hickey's Reel/The Merry Sisters of Fate
 {% include youtube.html id="MUD21PXcdv0" %}
 
-Caoimhín Ó Fearghaíl | Johnny McGreevey’s, The Concert Reel,The Salamanca
+Caoimhín Ó Fearghaíl - Johnny McGreevey’s/The Concert Reel/The Salamanca
 
 {% include youtube.html id="q3NSy3fby5M" %}
