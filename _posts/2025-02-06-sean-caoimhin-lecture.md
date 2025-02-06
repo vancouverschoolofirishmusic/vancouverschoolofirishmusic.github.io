@@ -14,9 +14,7 @@ Their talk will focus on the regional styles of Irish traditional music, complem
 
 **Venue**: Renfrew Elementary School
 
-**Admission**: $20, capacity limited to 25
-
-Please [email us](mailto:info@vsim.ca) to reserve your seat.
+Please [email us](mailto:info@vsim.ca) to reserve your seat - capacity is limited to 25
 
 ### Clips
 
