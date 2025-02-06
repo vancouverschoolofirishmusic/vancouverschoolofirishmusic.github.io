@@ -20,8 +20,13 @@ Please [email us](mailto:info@vsim.ca) to reserve your seat.
 
 ### Clips
 
+Seán Gavin - Hickey's Reel/The Merry Sisters of Fate
 {% include youtube.html id="MUD21PXcdv0" %}
 
 [![Seán Gavin](http://img.youtube.com/vi/MUD21PXcdv0/0.jpg)](http://www.youtube.com/watch?v=MUD21PXcdv0 "Seán Gavin")
+
+Caoimhín Ó Fearghaíl | Johnny McGreevey’s, The Concert Reel,The Salamanca
+
+{% include youtube.html id="q3NSy3fby5M" %}
 
 [![Caoimhín Ó Fearghaíl at Cork Folk Festival](http://img.youtube.com/vi/q3NSy3fby5M/0.jpg)](http://www.youtube.com/watch?v=q3NSy3fby5M "Caoimhín Ó Fearghaíl at Cork Folk Festival")
