@@ -11,7 +11,9 @@ Their talk will focus on the regional styles of Irish traditional music, complem
 ### Details
 
 **Date & Time**: Tuesday February 18th 6:30-8 pm
+
 **Venue**: Renfrew Elementary School
+
 **Admission**: $20, capacity limited to 25
 
 Please [email us](mailto:info@vsim.ca) to reserve your seat.
