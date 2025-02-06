@@ -22,6 +22,7 @@ Please [email us](mailto:info@vsim.ca) to reserve your seat.
 
 {% include youtube.html id="MUD21PXcdv0" %}
 
+  
 
 {% include youtube.html id="q3NSy3fby5M" %}
 
