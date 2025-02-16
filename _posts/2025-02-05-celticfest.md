@@ -4,7 +4,7 @@ title:  "CelticFest"
 ---
 
 [CelticFest Vancouver 2025](https://www.celticfestvancouver.com/) will be held from March 7-17th.
-Saturday 15th March will be a Family Day at the [Famee Furlane](https://maps.app.goo.gl/G8UtabmBCoxTDq9s5) hall in East Vancouver. 
+Saturday 15th March (10 am onwards) will be a Family Day at the [Famee Furlane](https://maps.app.goo.gl/G8UtabmBCoxTDq9s5) hall in East Vancouver. 
 
 We will be holding two workshops during the day, free of charge, for children and teenagers to try out the tin whistle. 
 Our teachers and students are also looking forward to performing on stage!
