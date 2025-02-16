@@ -8,7 +8,9 @@ permalink: /safeguarding/
 
 **1. Introduction**
 
-Vancouver School of Irish Music is dedicated to providing a safe, supportive, and nurturing environment for all children participating in our music programs. We recognize our responsibility to protect children from harm and to promote their welfare. This policy outlines our commitment to safeguarding children and the procedures we will follow to ensure their safety.
+Vancouver School of Irish Music is dedicated to providing a safe, supportive, and nurturing environment for all children participating in our music programs. 
+We recognize our responsibility to protect children from harm and to promote their welfare. 
+This policy outlines our commitment to safeguarding children and the procedures we will follow to ensure their safety.
 
 **2. Purpose**
 
@@ -35,8 +37,9 @@ This policy applies to all staff, volunteers, students, and parents associated w
 
 **6. Vetting and Training**
 
-- All staff and volunteers will undergo a police background check (including vulnerable sector check) before working with children.
-- Staff will receive training on child protection policies and procedures, including recognizing signs of abuse and how to report concerns.
+- All staff and volunteers working with children must:
+   - undergo a police background check (including vulnerable sector check) from their local municipal police department, and
+   - must complete the training course [Commit to Kids - Child Sexual Abuse Prevention Training for those Working with Children](https://protectchildren.ca/en/get-involved/online-training/commit-to-kids/) from the Canadian Centre for Child Protection.
 
 **7. Code of Conduct**
 
@@ -49,15 +52,15 @@ All staff and volunteers are expected to adhere to the following guidelines:
 
 **8. Safeguarding Officer**
 
-Conor Fleming is the Safeguarding Officer at Vancouver School of Irish Music and is responsible for:
+Conor Fleming is the current Safeguarding Officer at Vancouver School of Irish Music and is responsible for:
 - Overseeing child protection concerns.
 - Ensuring that staff are trained and aware of child protection policies.
 - Liaising with external agencies when necessary.
 
 **9. Reporting Concerns**
 
-- Any staff member or volunteer who has concerns about a child’s welfare must report it immediately to the Safeguarding Officer or a Director of the music school.
-- Concerns can also be reported anonymously if necessary.
+- Any staff member or volunteer who has concerns about a child’s welfare must report it immediately to the Safeguarding Officer or another Director of the music school.
+   - For privacy reasons, contact details for our staff are not posted on this website. Email the School at [info@vsim.ca](mailto:info@vsim.ca) to request the phone number of our Safegurading Officer or any other Director. 
 - The Safeguarding Officer/Director will take appropriate action, which may include contacting social services or law enforcement.
 
 **10. Confidentiality**
@@ -67,7 +70,8 @@ All concerns and reports will be treated with the utmost confidentiality. Inform
 **11. Parental Involvement**
 
 - Parents and guardians will be informed of our child protection policy and encouraged to communicate any concerns they may have regarding their child’s safety and well-being.
-- We will provide resources and information to parents about child protection and safeguarding.
+- Parents are encouraged to take the following online training themselves from the Canadian Centre for Child Protection (23 minute video, free upon registration)
+   - [Commit to Kids - Foundational Information for Safeguarding Children from Sexual Abuse](https://protectchildren.ca/en/get-involved/online-training/commit-to-kids-foundation-safeguarding-children/)
 
 **Conclusion**
 
