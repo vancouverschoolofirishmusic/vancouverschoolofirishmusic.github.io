@@ -5,7 +5,7 @@ title:  "Lecture by Seán Gavin and Caoimhín Ó Fearghaíl"
 
 
 We are delighted to announce a lecture by the highly-regarded musicians [Seán Gavin](https://www.seangavinmusic.com/about/) and [Caoimhín Ó Fearghaíl](https://www.caoimhinofearghail.ie/bio). 
-Both Seán and Caoimhín are both masters of the whistle, flute and uillean pipes and have a deep knowledge of the tradition. 
+Seán and Caoimhín are both masters of the whistle, flute and uillean pipes and have a deep knowledge of the tradition. 
 Their talk will focus on the regional styles of Irish traditional music, complemented by archival recordings, maps and live demonstrations. 
 
 ### Details
