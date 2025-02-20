@@ -21,7 +21,7 @@ Dave is a fiddle player from Quebec City, Canada of French-Canadian and Scottish
 
 Eoin is a concertina and flute player from Dublin, Ireland who has been living in Vancouver for the past five years. 
 He has been playing Irish traditional music since as early as he could talk, and has had the pleasure of learning from some of Ireland’s greatest proponents of the music, including Aoife O’Connor, Micheál O’Raghallaigh, Noel Hill, Harry Bradley and Paul McGrattan. 
-Eoin has won regional and All-Ireland Fleadh medals both solo and in céilí bands, and was a full-time gigging musician and music teacher in Dublin for several years, before moving to Vancouver and returning to his accountancy career.
+Eoin has won regional and All-Ireland Fleadh medals both solo and in céilí bands, and was a full-time gigging musician and music teacher in Dublin for several years, before moving to Vancouver and returning to his accountancy career. Eoin has performed on stage with many world-renowned musicians such as Dale Russ, Seán Gavin, Caoimhín Ó Fearghaíl and Elliot Grasso.
 
 ## Conor Fleming
 
