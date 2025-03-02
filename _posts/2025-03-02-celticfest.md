@@ -1,5 +1,6 @@
 ---
 layout: post
+image: assets/img/celticfest.png
 title:  "CelticFest"
 ---
 
