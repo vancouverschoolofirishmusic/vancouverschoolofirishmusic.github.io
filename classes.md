@@ -4,31 +4,30 @@ title: Classes
 permalink: /classes/
 ---
 
-## Classes Starting 7th January 2025!
-_Update: this round of classes is fully booked and under way. Please [join our mailing list]({% link contact.md %}) for news of our next classes!_
+## Classes Starting 1st April 2025!
 
-Our first series of classes will begin on Tuesday 7th January. 
+Our children's tin whistle classes will resume on Tuesday 1st April, following Spring Break.
 
-* Tuesdays from 6:15 - 6:45 pm
+* Weekly on Tuesdays from 1st April to 24th June (13 classes)
+* Time TBC (likely 30 min classes in the window 6 - 7:30 pm)
 * [Renfrew Elementary School, Vancouver ](https://maps.app.goo.gl/in528fYvUAeSQCtCA)
-* Every week from 7th January to 11th February (6 weeks)
-* For children aged 7 - 10 (although we will consider younger and older children)
-* $25 per class
-  * This first series of classes is discounted by 20% (to $20 per class) and includes a tin whistle for each child to keep!
-* Limited to 8 children. Additional applications will be placed on a waiting list
+* For children aged 6 - 10. Classes will be grouped based on age and ability.
+* $20 per class (rate for beginner group tin whistle classes)
  
 ## Registration Instructions
 * Email [info@vsim.ca](mailto:info@vsim.ca) to register, providing the following details:
-  * Parent's name and phone number
-  * Child's name and age
- 
+  * Parent's full name and phone number
+  * Child's first name and age
 * We will let you know if we have a spot for your child and provide instructions for payment
-* Full payment of $120 (discounted from $150) is required to secure your child's place
+* Payment required to secure a place
+* Payment options:
+*  Full payment for 13 classes: $260
+*  Split payment:
+ * First 6 classes: $120
+ * Second 7 classes: $140
 
-## Curriculum & Skill Level
-* This will be a basic introduction to Irish traditional music on the tin whistle
-* We are aiming to make it a fun and enjoyable experience, geared towards children in the 7-10 age group
-* We will start with a simple tune such as Twinkle Twinkle Little Star, and then progress to marches and polkas
+## Skill Levels
+* We welcome absolute beginners as well as children with a few tunes under their belt already - classes will be grouped based on age and ability.
 
 ## Inquiries
 Inquiries are always welcome. If you would like to know more about our plans, or are on the fence and want to ask a few questions just get in touch. 
