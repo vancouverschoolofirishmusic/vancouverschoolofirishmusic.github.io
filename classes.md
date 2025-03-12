@@ -12,6 +12,7 @@ Our children's tin whistle classes will resume on Tuesday 1st April, following S
 * Time TBC (likely 30 min classes in the window 6 - 7:30 pm)
 * [Renfrew Elementary School, Vancouver ](https://maps.app.goo.gl/in528fYvUAeSQCtCA)
 * For children aged 6 - 12. Classes will be grouped based on age and ability.
+* Limited to 6 children per class 
 * $20 per class (rate for beginner group tin whistle classes)
  
 ## Registration Instructions
