@@ -23,8 +23,8 @@ Our children's tin whistle classes will resume on Tuesday 1st April, following S
 * Payment options:
 *  Full payment for 13 classes: $260
 *  Split payment:
- * First 6 classes: $120
- * Second 7 classes: $140
+  * First 6 classes: $120
+  * Second 7 classes: $140
 
 ## Skill Levels
 * We welcome absolute beginners as well as children with a few tunes under their belt already - classes will be grouped based on age and ability.
