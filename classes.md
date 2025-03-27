@@ -4,7 +4,7 @@ title: Classes
 permalink: /classes/
 ---
 
-## Classes Starting 1st April 2025!
+## Classes Starting 8th April 2025!
 
 Our children's tin whistle classes will resume on Tuesday 1st April, following Spring Break.
 
