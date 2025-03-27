@@ -8,7 +8,7 @@ permalink: /classes/
 
 Our children's tin whistle classes will resume on Tuesday 1st April, following Spring Break.
 
-* Weekly on Tuesdays from 8th April to 24th June (13 classes)
+* Weekly on Tuesdays from 8th April to 24th June (12 classes)
 * Time TBC (likely 30 min classes in the window 6 - 7:30 pm)
 * [Renfrew Elementary School, Vancouver ](https://maps.app.goo.gl/in528fYvUAeSQCtCA)
 * For children aged 6 - 12. Classes will be grouped based on age and ability.
