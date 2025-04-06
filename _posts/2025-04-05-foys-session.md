@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Regular Irish Session at Foy's Bar"
+title: "Regular Trad Session at Foy's Bar"
 date: 2025-04-06
 categories: session pub
 ---
@@ -13,4 +13,4 @@ We meet every Sunday from 6-9 pm, and the atmosphere is warm and welcoming - whe
 
 Harmonic and rhythmic accompaniment is by special invitation only. If you’d like to know why we made this decision, you’re welcome to come into Foy’s on a Sunday evening and chat with us over a pint.
 
-Check out full details of our session, including times and format, on [thesession.org](https://thesession.org/sessions/2235).
+Check out full details of our session, including times and format, on [thesession.org](https://thesession.org/sessions/9105).
