@@ -5,7 +5,7 @@ date: 2025-04-06
 categories: session pub
 ---
 
-![Musicians playing at Foy's Bar in Vancouver](/assets/images/IMG-20250105-WA0008.jpg)
+![Musicians playing at Foy's Bar in Vancouver](/assets/img/IMG-20250105-WA0008.jpg)
 
 Looking for live traditional Irish music in Vancouver? Join us at our regular session at [Foy's Bar](https://maps.app.goo.gl/NbQbxd84LJ1zjsKr7), where musicians gather to share tunes and great company.
 
