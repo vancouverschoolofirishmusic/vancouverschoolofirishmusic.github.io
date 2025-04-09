@@ -15,7 +15,7 @@ _Note dated 8th Apr 2025:_
 _We are transitioning our usual email to a new service provider and may not receive messages at the above address for a few days.
 In the meantime use the following email address:_
 
-[vancouverschoolofirishmusic@gmail.com](mailto: vancouverschoolofirishmusic@gmail.com)
+[vancouverschoolofirishmusic@gmail.com](mailto:vancouverschoolofirishmusic@gmail.com)
 
 ## Subscribe 
 
