@@ -44,7 +44,7 @@ header_pages:
 
 # Build settings
 # theme: minima
-theme: cayman
+theme: jekyll-theme-cayman
 
 plugins:
  - jekyll-feed
