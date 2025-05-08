@@ -17,14 +17,14 @@ Centuries](https://musicintheglen.my.canva.site/)
 
 Clare FM's traiditional music programme, broadcast every weeknight from 7-9 pm Irish time and available online at
 
-https://www.clare.fm/listen-back/the-west-wind/
+[https://www.clare.fm/listen-back/the-west-wind/]()
 
 ## Raelach Records
 
-Looking for a gift for the VSIM student in your life - you can't go wrong with an album from [https://www.raelachrecords.com/](Raelach Records)!
+Looking for a gift for the VSIM student in your life - you can't go wrong with an album from [Raelach Records](https://www.raelachrecords.com/)!
 
 ## Irish Traditional Music Archive
 
 The well for Irish traditional music, song and dance.
 
-https://www.itma.ie
+[https://www.itma.ie]()
