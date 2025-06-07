@@ -1,35 +1,67 @@
-/* Always show burger icon */
+/* Always show burger menu on all screens and hide inline links */
+/* 1. Always show burger icon (even on desktop) */
 .site-nav label[for="nav-trigger"],
 .site-nav .menu-icon {
   display: block !important;
   float: right;
   width: 36px;
   height: 36px;
+  margin-top: 6px;
+  margin-right: 8px;
   cursor: pointer;
 }
 
-/* Hide menu links by default, show only when burger is checked */
-.site-nav input ~ .trigger {
+/* 2. Hide nav links by default, only show when burger is checked */
+.site-nav .trigger {
+  display: none !important;
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.4s ease;
-  clear: both;
+  position: absolute;
+  right: 0;
+  top: 50px; /* adjust if needed based on your header */
+  background: #fff;
+  border: 1px solid #e8e8e8;
+  border-radius: 5px;
+  text-align: right;
+  min-width: 180px;
+  z-index: 1000;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.07);
 }
 
+/* 3. When burger is clicked (checked), show dropdown with animation */
 .site-nav input:checked ~ .trigger {
+  display: block !important;
   max-height: 500px;
   padding-bottom: 5px;
 }
 
+/* 4. Vertical, clickable menu links */
 .site-nav .page-link {
-  display: block;
+  display: block !important;
   padding: 10px 25px 10px 0;
-}
-
-.site-nav {
-  position: relative;
-  background: #fff;
-  border-radius: 5px;
+  margin: 0;
+  background: none;
+  border: none;
   text-align: right;
 }
 
+/* 5. Hide the default inline nav at all widths */
+@media (min-width: 0px) {
+  .site-nav .page-link {
+    display: none !important;
+  }
+  .site-nav input:checked ~ .trigger .page-link {
+    display: block !important;
+  }
+}
+
+/* 6. Optional: Slight spacing between menu items */
+.site-nav .page-link:not(:last-child) {
+  margin-bottom: 8px;
+}
+
+/* 7. Prevent page content from being pushed down */
+.site-nav {
+  position: relative;
+}
