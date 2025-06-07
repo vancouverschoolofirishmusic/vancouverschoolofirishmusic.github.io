@@ -1,0 +1,41 @@
+/* Always show burger menu on all screen sizes */
+
+/* Show the hamburger icon always */
+.site-nav label[for="nav-trigger"],
+.site-nav .menu-icon {
+  display: block;
+  float: right;
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
+}
+
+/* Hide nav links by default, show when burger clicked */
+.site-nav input ~ .trigger {
+  display: none;
+  clear: both;
+}
+
+.site-nav input:checked ~ .trigger {
+  display: block;
+  padding-bottom: 5px;
+}
+
+/* Style the dropdown menu */
+.site-nav {
+  position: relative;
+  background: #fdfdfd;
+  border: 1px solid #e8e8e8;
+  border-radius: 5px;
+  text-align: right;
+}
+
+.site-nav .page-link {
+  display: block;
+  padding: 5px 10px;
+  margin: 0 0 0 20px;
+}
+
+.site-nav .page-link:not(:last-child) {
+  margin-bottom: 5px;
+}
