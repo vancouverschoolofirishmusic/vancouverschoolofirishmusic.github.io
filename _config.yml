@@ -45,9 +45,8 @@ header_pages:
 # Build settings
 theme: minima
 
-sass:
-  load_paths:
-    - _sass/minima
+include:
+  - _includes/custom-head.html
     
 plugins:
  - jekyll-feed
