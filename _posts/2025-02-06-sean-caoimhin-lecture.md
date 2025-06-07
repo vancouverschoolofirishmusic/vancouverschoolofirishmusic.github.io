@@ -8,9 +8,9 @@ Later on Seán and Caoimhín delivered an insightful lecture on the regional sty
 
 Here are a couple of photos of the event, and further details are in the original post below.
 
-![Class](assets/img/PXL_20250219_021943716.jpg)
+![Class](/assets/img/PXL_20250219_021943716.jpg)
 
-![Lecture](assets/img/IMG-20250219-WA0001.jpg)
+![Lecture](/assets/img/IMG-20250219-WA0001.jpg)
 
 ### Original Post
 We are delighted to announce a lecture by the highly-regarded musicians [Seán Gavin](https://www.seangavinmusic.com/about/) and [Caoimhín Ó Fearghaíl](https://www.caoimhinofearghail.ie/bio). 
