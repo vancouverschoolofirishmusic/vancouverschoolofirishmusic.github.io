@@ -16,8 +16,8 @@ $table-text-align: left !default;
 // Width of the content area
 $content-width:    800px !default;
 
-$on-palm:          600px !default;
-$on-laptop:        800px !default;
+$on-palm:          6000px !default;// 600
+$on-laptop:        80000px !default;// 800
 
 $on-medium:        $on-palm !default;
 $on-large:         $on-laptop !default;
