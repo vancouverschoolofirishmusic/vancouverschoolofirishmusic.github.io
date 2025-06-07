@@ -1,18 +1,35 @@
-/* Force hamburger menu on all screen sizes */
+/* Always show burger icon */
+.site-nav label[for="nav-trigger"],
+.site-nav .menu-icon {
+  display: block !important;
+  float: right;
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
+}
+
+/* Hide menu links by default, show only when burger is checked */
+.site-nav input ~ .trigger {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease;
+  clear: both;
+}
+
+.site-nav input:checked ~ .trigger {
+  max-height: 500px;
+  padding-bottom: 5px;
+}
+
+.site-nav .page-link {
+  display: block;
+  padding: 10px 25px 10px 0;
+}
+
 .site-nav {
-  display: none;
+  position: relative;
+  background: #fff;
+  border-radius: 5px;
+  text-align: right;
 }
 
-.nav-trigger {
-  display: block;
-}
-
-.nav-trigger:checked + label + .trigger {
-  display: block;
-}
-
-@media screen and (min-width: 600px) {
-  .site-nav {
-    display: none;
-  }
-}
