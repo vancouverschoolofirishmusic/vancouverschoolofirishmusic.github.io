@@ -5,6 +5,7 @@ permalink: /classes/
 ---
 
 ![Eoin teaching](/assets/img/eoin-teaching.jpg)
+*Photo by [Adam Blasberg](https://www.adamblasberg.com/)*
 
 ## Current Classes - 8th April to 24th June 2025
 
