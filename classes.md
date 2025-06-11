@@ -4,29 +4,23 @@ title: Classes
 permalink: /classes/
 ---
 
-## Classes Starting 8th April 2025!
+![Eoin teaching](/assets/img/eoin-teaching.jpg)
 
-Our children's tin whistle classes resume on Tuesday 8th April.
+## Current Classes - 8th April to 24th June 2025
 
-* Weekly on Tuesdays from 8th April to 24th June (12 classes)
-* 6:15 - 6:45 pm
-* [Renfrew Elementary School, Vancouver ](https://maps.app.goo.gl/in528fYvUAeSQCtCA)
-* For children aged 6 - 12. Classes will be grouped based on age and ability.
-* Limited to 6 children per class 
-* $20 per class (rate for beginner group tin whistle classes)
- 
-## Registration Instructions
-* Email [info@vsim.ca](mailto:info@vsim.ca) to register, providing the following details:
-  * Parent's full name and phone number
-  * Child's first name and age
-* We will let you know if we have a spot for your child and provide instructions for payment
-* Payment required to secure a place
-* Payment options:
-  * Full payment for 12 classes: $240
-  * Split payment:
-    * First 6 classes: $120
-    * Second 6 classes: $120
- 
+We are currently running a children's tin whistle class on Tuesday evenings at [Renfrew Elementary](https://maps.app.goo.gl/in528fYvUAeSQCtCA) until 24th June.
+
+
+## September 2025 Class
+
+We are making preparations for additional classes from September 2025, and will announce the details here and on social media later in June. 
+In the meantime you can email us at [info@vsim.ca](mailto:info@vsim.ca) to let us know you are interested! 
+
+Tentative details:
+* 6 pm Tuesday evenings
+* East Van
+* For children aged 6 - 12
+* Tin whistle and other instruments
 
 ## Skill Levels
 * We welcome absolute beginners as well as children with a few tunes under their belt already - classes will be grouped based on age and ability.
