@@ -12,14 +12,12 @@ layout: home
 
 # Welcome | Fáilte
 
-Vancouver School of Irish Music is a non-profit organization which aims to foster a community of traditional Irish musicians and enthusiasts here in Vancouver, BC.
+Vancouver School of Irish Music is a non-profit society with the goal of bringing authentic Irish traditional music to young people in Vancouver. Check out our blog below for a flavour of our activities!
 
-Our [current series of classes](classes.md) is running from April - June 2025, for children aged 6-12.
+We are currently enrolling for our Fall term classes (ages 7-12, multiple classes).
+Classes will be held on Tuesday evenings, 6-7 pm at Renfrew Elementary School during the elementary school term from September to Christmas.
 
-If you are interested in joining us next term in September 2025 please [get in touch!]({% link contact.md %})
+New students will begin with the tin whistle (supplied by us) and returning students will have the opportunity to take up other instruments (fiddle, flute, accordion, etc). 
 
-As the school grows we plan to introduce adult classes as well as host concerts and further [masterclasses from visiting musicians](_posts/2025-02-06-sean-gavin-lecture.md).
-
-Browse our blog posts and menu links for further information. 
-
+Please email us at [info@vsim.ca](mailto:info@vsim.ca) to register your child.
 
