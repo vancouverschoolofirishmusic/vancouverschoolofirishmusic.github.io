@@ -14,13 +14,13 @@ We are running tin whistle and fiddle classes in Fall 2025, on Tuesday evenings 
 
 ### Children's Tin Whistle
 * 6:15 - 6:55 pm
-* Rotating teachers - [Eoin](teachers/#eoin-caulfield), [Mel](teachers/#melany-yeap) and [Conor](teachers/#conor-fleming)
+* Rotating teachers - [Eoin](/teachers/#eoin-caulfield), [Mel](/teachers/#melany-yeap) and [Conor](/teachers/#conor-fleming)
 * $280 for the 14-class term ($20/class)
   * Fee covers a tin whistle for new students to keep
 
 ### Children's Fiddle
 * 6:00 - 6:30 pm
-* Taught by [Dave](teachers/#dave-clark)
+* Taught by [Dave](/teachers/#dave-clark)
 * $350 for the 14-class term ($25/class)
 * Instrument not provided, but we can help you source a fiddle for purchase or hire
 
