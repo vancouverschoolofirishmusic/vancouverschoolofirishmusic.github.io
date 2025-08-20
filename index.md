@@ -14,10 +14,7 @@ layout: home
 
 Vancouver School of Irish Music is a non-profit society with the goal of bringing authentic Irish traditional music to young people in Vancouver. Check out our blog below for a flavour of our activities!
 
-We are currently enrolling for our Fall term classes (ages 7-12, multiple classes).
-Classes will be held on Tuesday evenings, 6-7 pm at Renfrew Elementary School during the elementary school term from September to Christmas.
+We are currently enrolling for our Fall term classes (ages 7-12, tin whistle and fiddle) - see our [Classes](/classes) page for details!
 
-New students will begin with the tin whistle (supplied by us) and returning students will have the opportunity to take up other instruments (fiddle, flute, accordion, etc). 
-
-Please email us at [info@vsim.ca](mailto:info@vsim.ca) to register your child.
+All queries are welcome - email [info@vsim.ca](mailto:info@vsim.ca)!
 
