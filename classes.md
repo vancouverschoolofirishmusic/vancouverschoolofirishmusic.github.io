@@ -20,10 +20,10 @@ We are running tin whistle and fiddle classes in Fall 2025, on Tuesday evenings 
   * Fee covers a tin whistle for new students to keep
 
 ### Children's Fiddle
-* Sep 9th - Dec 18th (excluding Sep 30 and Nov 11)
+* Sep 16th - Dec 18th (excluding Sep 30 and Nov 11)
 * 6:00 - 6:30 pm
 * Taught by [Dave](../teachers/#dave-clark)
-* $325 for the 13-class term ($25/class)
+* $300 for the 12-class term ($25/class)
 * Instrument not provided, but we can help you source a fiddle for purchase or hire
 
 ### Registration Instructions
